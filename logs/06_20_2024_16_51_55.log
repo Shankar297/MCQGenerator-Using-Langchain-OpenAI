@@ -1,0 +1,4 @@
+[2024-06-20 16:51:58,138] 23 root - INFO - File load successfully..
+[2024-06-20 16:52:00,421] 23 root - INFO - File load successfully..
+[2024-06-20 16:52:00,426] 43 root - INFO - File read_successfully..
+[2024-06-20 16:52:00,801] 61 root - ERROR - Unable to generate response Error code: 401 - {'error': {'message': 'Incorrect API key provided: zcnsglkn***** fdf. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}

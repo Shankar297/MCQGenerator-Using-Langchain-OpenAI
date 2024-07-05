@@ -1,0 +1,3 @@
+[2024-06-20 14:20:57,767] 260 langchain_community.chat_models.openai - WARNING - WARNING! models is not default parameter.
+                    models was transferred to model_kwargs.
+                    Please confirm that models is what you intended.
